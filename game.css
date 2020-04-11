@@ -1,0 +1,22 @@
+ .board button{
+ 	width: 80px;
+ 	height: 80px;
+ 	background-color: gray;
+ 	margin: 1px;
+ 	border: 4px solid black;
+ 	border-radius: 50%;
+
+ }
+
+h1{
+	color: #eeeeee;
+}
+h2{
+	color: #eeeeee;
+}
+h3{
+	color: #eeeeee;
+}
+h4{
+	color: #eeeeee;
+}
